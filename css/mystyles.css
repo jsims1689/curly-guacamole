@@ -1,0 +1,16 @@
+.site-heading-lower{
+    font-family: 'Courier New', Courier, monospace;
+}
+.myfont{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubfont{
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke !important;
+}
+.myimg{
+    width: 70% !important;
+}
+.myitalics{
+    font-style: italic !important;
+}
